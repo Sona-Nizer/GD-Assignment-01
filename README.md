@@ -6,22 +6,22 @@ This game is designed for GD module assignment purpose.
 Sprite Sheets are taken from open source .
 
 There are 3 elements on the screen. 
-*Pause Button
-*Health Bar 
-*Score Board
+1) Pause Button
+2) Health Bar 
+3) Score Board
 
 The area where the amount of coin collected by our character is displayed on the screen.
 
 There are 2 collectible objects in the game. 
-*Coins 
-*Health potions
+1) Coins 
+2) Health potions
 
 Health Potion
-*This object helps to increase the health of our character.
+This object helps to increase the health of our character.
 
 Additional Game Aesthetics
-*I have added screen shake effect when character collides with enemies
-*I have also animated the coins to make it more lively
+1) I have added screen shake effect when character collides with enemies
+2) I have also animated the coins to make it more lively
 
 Camera Follow System
 
