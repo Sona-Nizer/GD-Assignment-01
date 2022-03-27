@@ -25,6 +25,5 @@ Additional Game Aesthetics
 
 Camera Follow System
 
-I used a package called Cinemachine
-(https://docs.unity3d.com/Packages/com.unity.cinemachine@2.1/manual/index.html) for our character to be followed by the camera and also for screen shake collision effect.
+I used a package called Cinemachine for our character to be followed by the camera and also for screen shake collision effect.
 
